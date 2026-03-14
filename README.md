@@ -118,8 +118,8 @@ If you find this repository helpful, please cite our work:
 
 ```bibtex
 @article{zhang2025track,
-  title={Track Any Motions under Any Disturbances},
-  author={Zhikai Zhang and Jun Guo and Chao Chen and Jilong Wang and Chenghuai Lin and Yunrui Lian and Han Xue and Zhenrong Wang and Maoqi Liu and Huaping Liu and He Wang and Li Yi},
+  title={Track any motions under any disturbances},
+  author={Zhang, Zhikai and Guo, Jun and Chen, Chao and Wang, Jilong and Lin, Chenghuai and Lian, Yunrui and Xue, Han and Wang, Zhenrong and Liu, Maoqi and Lyu, Jiangran and others},
   journal={arXiv preprint arXiv:2509.13833},
   year={2025}
 }
